@@ -2,9 +2,11 @@
 
 lecture by http://hunkim.github.io/ml/
 
-use library : 
+use libraries :  
 [python3.6][1]  
-[jupyter notebook][http://jupyter.org/]  
-[tensorflow][https://www.tensorflow.org/]
+[jupyter notebook][2]  
+[tensorflow][3]
 
 [1]: https://www.python.org/
+[2]: http://jupyter.org/
+[3]: https://www.tensorflow.org/
