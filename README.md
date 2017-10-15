@@ -1,8 +1,8 @@
 # deepLearning-lecture
 
-lecture by http://hunkim.github.io/ml/
+> lecture by http://hunkim.github.io/ml/
 
-use libraries :  
+## use libraries
 [python3.6][1]  
 [jupyter notebook][2]  
 [tensorflow][3]
