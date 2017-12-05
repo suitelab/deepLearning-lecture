@@ -18,8 +18,6 @@
 [jupyter notebook][2]  
 [tensorflow][3]
 
-#이지은
-
 ## License
 deepLearning-lecture is released under the [MIT license](https://github.com/suitelab/deepLearning-lecture/blob/master/LICENCE).
 
